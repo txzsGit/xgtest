@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/njupt_api/njupt_api.iml" filepath="$PROJECT_DIR$/njupt_api/njupt_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/njupt_outExcel/njupt_outexcel.iml" filepath="$PROJECT_DIR$/njupt_outExcel/njupt_outexcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/njupt_parent/njupt_parent.iml" filepath="$PROJECT_DIR$/njupt_parent/njupt_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/njupt_pojo/njupt_pojo.iml" filepath="$PROJECT_DIR$/njupt_pojo/njupt_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/njupt_utils/njupt_utils.iml" filepath="$PROJECT_DIR$/njupt_utils/njupt_utils.iml" />
+    </modules>
+  </component>
+</project>
